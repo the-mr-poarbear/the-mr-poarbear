@@ -79,17 +79,6 @@ I'm also continuing to explore **RAG and applied machine learning** alongside da
 
 ---
 
-## 📌 A bit more about me
-
-- 💻 Software developer with a frontend background
-- 🐍 Increasingly Python-focused
-- 🗄️ Interested in data systems and databases
-- 🤖 Interested in practical AI rather than AI for the sake of AI
-- 🏎️ F1 enthusiast
-- 🎸 Guitar player
-- 🎨 Digital artist
-
----
 
 ## Let's Connect
 
