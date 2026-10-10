@@ -95,4 +95,4 @@ I'm also continuing to explore **RAG and applied machine learning** alongside da
 
 I'm always interested in talking about **data engineering, AI, software architecture, or interesting technical projects**.
 
-[GitHub](https://github.com/the-mr-poarbear)
+[LinkedIn](https://www.linkedin.com/in/arsam-amirsoleimani-666852427)
