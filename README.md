@@ -1,9 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Developer animation"/>
 
   <h1>
     Hi, I'm Arsam
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" alt="Waving hand"/>
   </h1>
 
   <h3>Data Engineer · Frontend Developer · RAG & ML</h3>
@@ -82,55 +80,6 @@
 
 **Also:** REST APIs, SQLAlchemy, Alembic, Zustand, HTML, and CSS.
 
----
-
-### 🚀 Featured Projects
-
-#### 1. [F1 Relational Mini-Sector Dataset](https://github.com/the-mr-poarbear/F1-Relational-Mini-Sector-Based-Dataset)
-
-Exploring Formula 1 data through relational modeling, circuit geometry, and mini-sector analysis using Python and SQL.
-
-#### 2. [Social Media Search Engine Graph](https://github.com/the-mr-poarbear/social-media-search-engine-graph)
-
-A data pipeline proof of concept featuring priority-based crawling, asynchronous workers, Redpanda messaging, and PostgreSQL graph-oriented storage.
-
-#### 3. [Data Warehouse Project](https://github.com/the-mr-poarbear/data-warehouse-project)
-
-A data warehousing project built around the Bronze, Silver, and Gold medallion architecture, with data ingestion, cleansing, transformation, and dimensional modeling.
-
-#### 4. [KarChandV2](https://github.com/the-mr-poarbear/KarChandV2)
-
-An AI-powered application combining backend development, data processing, machine learning, and RAG-related technologies.
-
-#### 5. [Ultimate Short-Form Video Editor](https://github.com/the-mr-poarbear/Ultimate-Short-Form-Video-Editor)
-
-A React and TypeScript video editing application focused on voiceover processing and synchronized media workflows.
-
----
-
-### 📚 Currently Learning
-
-- Advanced Python for Data Engineering
-- Data pipeline design and orchestration
-- Apache Airflow and dbt
-- Apache Spark and distributed data processing
-- Cloud data platforms and AWS
-- Data warehouse architecture and optimization
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-mr-poarbear&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-mr-poarbear&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most used languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-mr-poarbear&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-</div>
-
----
 
 <div align="center">
   <i>Building, learning, and turning ideas into working systems.</i>
