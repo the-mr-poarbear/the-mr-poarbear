@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
   <h1>
-    Hi, I'm Arsam
+    Arsam Amirsoleimani
   </h1>
 
   <h3>Data Engineer · Frontend Developer · RAG & ML</h3>
