@@ -25,8 +25,17 @@
 ---
 
 ### About Me
+▹ Computer Engineering student
+▹ Focused on Data Engineering
+▹ Building AI-powered applications
 
-◆ Computer Engineering student with a background in frontend development.\n
+◆ Python and SQL
+◆ Data pipelines and warehouses
+◆ RAG and Machine Learning
+
+→ Currently learning Apache Spark
+→ Exploring Airflow and dbt
+◆ Computer Engineering student with a background in frontend development.
 ◆ Focused on **Data Engineering**, data pipelines, databases, and data warehouse architecture.
 ◆ Working with **Python and SQL** to build data-intensive applications.
 ◆ Exploring ETL/ELT, medallion architecture, asynchronous processing, and distributed systems.
