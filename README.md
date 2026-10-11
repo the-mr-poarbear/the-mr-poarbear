@@ -26,7 +26,7 @@
 
 ### About Me
 
-◆ Computer Engineering student with a background in frontend development.
+◆ Computer Engineering student with a background in frontend development.\n
 ◆ Focused on **Data Engineering**, data pipelines, databases, and data warehouse architecture.
 ◆ Working with **Python and SQL** to build data-intensive applications.
 ◆ Exploring ETL/ELT, medallion architecture, asynchronous processing, and distributed systems.
